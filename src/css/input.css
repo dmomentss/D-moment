@@ -24,7 +24,7 @@
 }
 @font-face {
     font-family: 'rantera';
-    src: url('../font/rantera/Rantera.otf');
+    src: url('/font/rantera/Rantera.otf') format('opentype');
 }
 
 .navbar-fixed {
