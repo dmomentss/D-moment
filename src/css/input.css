@@ -12,7 +12,7 @@
 }
 @font-face {
     font-family: 'catchye';
-    src: url('/font/catchye/Catchye.otf');
+    src: url('/font/catchye/Catchye.otf') format('truetype');
 }
 @font-face {
     font-family: 'soage';
@@ -24,7 +24,7 @@
 }
 @font-face {
     font-family: 'rantera';
-    src: url('/font/rantera/Rantera.otf');
+    src: url('/font/rantera/Rantera.otf') format('truetype');
 }
 
 .navbar-fixed {
